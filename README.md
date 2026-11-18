@@ -1,6 +1,6 @@
 ![Black-haired anime character against a black background](./banner.jpg)
 
-## Hi there 👋
+## SocialMediaKilledRomance
 
 <!--
 **html2195/html2195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
